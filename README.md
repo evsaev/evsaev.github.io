@@ -1,3 +1,5 @@
+## I/E Pavel Yeusayeu, iOS Developer 🧑‍💻
+
 ### ℹ️ About myself
 
 A passionate software engineer focused on iOS with 5+ years of commercial experience in chat/sports/fintech/investment domains. The software is about bringing value to the customer and my way to influence the world. Writing clean, bug-free, easy-to-read and maintain source code is what motivates me, and what I always aim for.
@@ -5,8 +7,6 @@ A passionate software engineer focused on iOS with 5+ years of commercial experi
 - 4 years building native iOS applications (out-source)
 - 2 years building SDKs (product, open-source)
 - MS's degree in computer science
-
-Currently located in Batumi, Georgia 📍
 
 ### 💪 Skills
 
@@ -42,13 +42,17 @@ All my work is public here: [https://github.com/GetStream/stream-chat-swift](htt
 
 ### 📖 Education
 
+```markdown
 Master of CS (2017-2019)
-Loyalty program on Ethereum blockchain BSUIR, 
+Loyalty program on Ethereum blockchain BSUIR
 Belarus, Minsk 📍
+```
 
+```markdown
 Bachelor of CS (2013-2017)
-Restoring 3d-scene from a set of photos BSUIR, 
+Restoring 3d-scene from a set of photos BSUIR
 Belarus, Minsk 📍
+```
 
 ### ☎️ Contact me
 
@@ -57,3 +61,5 @@ Belarus, Minsk 📍
 
 **LinkedIn:**
 [https://www.linkedin.com/in/iosevsaev/](https://www.linkedin.com/in/iosevsaev/)
+
+Currently located in Batumi, Georgia 📍
