@@ -1,5 +1,3 @@
-## Pavel Yeusayeu, Senior iOS Developer 🧑‍💻 (remote)
-
 ### ℹ️ About myself
 
 A passionate software engineer focused on iOS with 5+ years of commercial experience in chat/sports/fintech/investment domains. The software is about bringing value to the customer and my way to influence the world. Writing clean, bug-free, easy-to-read and maintain source code is what motivates me, and what I always aim for.
@@ -27,9 +25,10 @@ Restoring 3d-scene from a set of photos BSUIR, Belarus, Minsk
 ### ☎️ Contact me
 
 GitHub:
-https://github.com/evsaev
+![https://github.com/evsaev] (https://github.com/evsaev)
 
 LinkedIn:
-https://www.linkedin.com/in/iosevsaev/
+![https://www.linkedin.com/in/iosevsaev/](https://www.linkedin.com/in/iosevsaev/)
 
+Location:
 Batumi, Georgia 📍
