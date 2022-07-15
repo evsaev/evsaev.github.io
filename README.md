@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+## Pavel Yeusayeu, Senior iOS Developer 🧑‍💻 (remote)
 
-You can use the [editor on GitHub](https://github.com/evsaev/evsaev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### About myself
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A passionate software engineer focused on iOS with 5+ years of commercial experience in chat/sports/fintech/investment domains. The software is about bringing value to the customer and my way to influence the world. Writing clean, bug-free, easy-to-read and maintain source code is what motivates me, and what I always aim for.
 
-### Markdown
+### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- iOS app/SDK development Swift/Obj-C
+- UIKit (code, xib, storyboard)/SwiftUI
+- MVC/MVP/MVVM/VIPER/Redux
+- Combine/RxSwift/Bond
+- CoreData/Realm
+- SPM/CocoaPods/Carthage
+- Web Socket/REST API/JSON
+
+### Portfolio
+
+***Company***:
+GetStream.io
+
+***Location***: USA, Boulder, CO
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Senior iOS SDK Developer (remote)
+- Building the chat SDKs from the ground-up
+- Planning, estimating, scoping out work
+- Writing technical documentation & proposals
+- Customer support, helping with SDK integration
+- Cross-team communication with product, design, BE & FE teams - Mentoring, sharing the knowledge
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+All my work is public here: https://github.com/GetStream/stream-chat-swift
 
-### Jekyll Themes
+Swift, UIKit, WebSocket, REST API, CoreData, Combine, GHA, Fastlane, Git, all kind of tests
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evsaev/evsaev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+iTechArt | Belarus, Minsk (2016 - 2020)
+Senior iOS Engineer (on-site)
+As an external iOS dev I was working for Wirecard AG (Germany) on boon.Planet mobile
+banking application that manages multiple bank account under one roof.
+- Token management (refreshing, leveling up, PSD2)
+- Adding new/updating existed bank account connection
+- Spending insights app section (pie charts, bar charts, statistics) - Communication with product & BA teams
+- Doing code reviews, interviewing candidates
+iOS/watchOS, Swift, UIKit, MVVM, Carthage, RxSwift/RxCocoa, Keychain, REST API, Jenkins CI, Firebase (Remote config, Analytics), Git
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Education
+
+2017-2019
+Master of CS
+Loyalty program on Ethereum blockchain BSUIR, Belarus, Minsk
+
+2013-2017
+Bachelor of CS
+Restoring 3d-scene from a set of photos BSUIR, Belarus, Minsk
+
+### Contact me
+
+GitHub:
+https://github.com/evsaev
+
+LinkedIn:
+https://www.linkedin.com/in/iosevsaev/
+
+Batumi, Georgia 📍
